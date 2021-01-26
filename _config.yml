@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Anton "Wyrax" Som © 2021
+  copyright: Anton "Wyrax" Som,
   location: Location Footer text
   social: Around the Web
   credits: Credits
@@ -53,10 +53,10 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Ukraine, Kyiv
-  - line: 02217
+  - line: '02217'
 
 # Credits content
-credits: 'This page created with Freelancer: a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This page created with Freelancer:<br>a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
