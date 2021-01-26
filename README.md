@@ -1,3 +1,18 @@
+Jekyll: Live reload on Windows 10
+03 Apr 2018 • Jekyll
+Live reload issue solved when running Jekyll on Windows 10.
+Issue
+When attempting to use live reload on Windows 10 (jekyll serve --livereload), encountered the following error,
+
+Unable to load the EventMachine C extension; To use the pure-ruby reactor, require "em/pure_ruby"
+C:/tools/ruby24/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.5-x64-mingw32/lib/rubyeventmachine.rb:2:in `require': cannot load such file -- 2.4/rubyeventmachine (LoadError)
+        ...
+Solution
+From the Ruby command prompt,
+
+gem uninstall eventmachine
+gem install eventmachine --platform ruby
+
 Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
 =========================
 
