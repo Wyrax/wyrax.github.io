@@ -51,7 +51,8 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Ukraine, Kyiv
-  - line: '02217'
+  - line: <i class="bi bi-envelope"></i><a href="mailto:wyraxlfj@ukr.net">Email Me</a>
+  - line: '+380 50 552 74 23'
 
 # Credits content
 credits: 'This page created with <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a>:<br>a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'

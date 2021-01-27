@@ -16,6 +16,9 @@
                             <!-- <hr class="star-primary"> -->
                             <hr class="star-light">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% if post.url %}
+                            <iframe src={{ post.url }} width="100%" style="border:none;" onload="this.style.height=(this.contentWindow.document.body.scrollHeight+100)+'px';"></iframe>
+                            {% endif %}
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
