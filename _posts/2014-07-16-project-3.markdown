@@ -1,12 +1,13 @@
 ---
 layout: default
-modal-id: 33
+modal-id: 3
 date: 2014-07-16
-img: circus.png
-alt: image-alt
-url: "/cv/portfolio/apgar-score/apgar08cv.html"
+img: baby.png
+alt: APGAR-score
+iframe: "https://wyrax.github.io/cv/portfolio/apgar-score/apgar08cv.html"
+project-name: APGAR-score
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: APGAR-score ... Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: Liferead Media
+category: Interactive Graphic
+description: APGAR-score ... One sentence. Short.
 ---
