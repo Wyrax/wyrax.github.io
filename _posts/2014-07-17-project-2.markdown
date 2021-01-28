@@ -1,11 +1,16 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+date: 2019-07-17
+img: owl.png
+alt: Spot the difference
+iframe: https://wyrax.github.io/cv/portfolio/find-diff/finddiff_041-montenegro.html
+project-name: Spot the difference
+project-date: 2018-2019
+project-type: Puzzle
+
+client: Segodnya Multimedia / LifeRead.media
+client-url: http://liferead.media
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: 0) Spot the difference -> header 1) Check/fix Developer text margin-top for site 2) For post remove header and button
 ---

@@ -1,11 +1,16 @@
 ---
 layout: default
 modal-id: 1
-date: 2016-09-10
+date: 2019-09-27
 img: moon.png
 alt: Moon calendar
-project-date: 2016-2019
-client: Liferead Media
-category: Interactive Graphic
-description: Animated moon calendar. jQuery & JavaScript
+iframe: https://wyrax.github.io/cv/portfolio/moon-phases/moon_phases10cv.html
+project-name: Moon calendar
+project-date: 2017-2019
+project-type: Interactive Graphic
+
+client: Segodnya Multimedia / LifeRead.media
+client-url: http://liferead.media
+category: Web Development
+description: Animated moon calendar. jQuery & JavaScript. // Crop header
 ---

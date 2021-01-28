@@ -1,13 +1,16 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2018-08-18
 img: baby.png
 alt: APGAR-score
-iframe: "https://wyrax.github.io/cv/portfolio/apgar-score/apgar08cv.html"
+iframe: https://wyrax.github.io/cv/portfolio/apgar-score/apgar08cv.html
 project-name: APGAR-score
 project-date: April 2014
-client: Liferead Media
-category: Interactive Graphic
-description: APGAR-score ... One sentence. Short.
+project-type: Interactive Infographic
+
+client: Segodnya Multimedia / LifeRead.media
+client-url: http://liferead.media
+category: Web Development
+description: APGAR-score ... Crop header
 ---

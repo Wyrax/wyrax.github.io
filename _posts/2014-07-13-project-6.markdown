@@ -1,13 +1,16 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2020-07-11
 img: map.png
 alt: Interactive map
-iframe: "https://wyrax.github.io/cv/portfolio/ukraine-map/ukraine-map-09cv.html"
+iframe: https://wyrax.github.io/cv/portfolio/ukraine-map/ukraine-map-09cv.html
 project-name: Interactive map of Ukraine
-project-date: April 2014
-client: Start Bootstrap
+project-date: March-July 2020
+project-type: Interactive Infographic
+
+client: UA-Times News Agency
+client-url: https://ua-times.com
 category: Web Development
 description: "Set id=map-wrapper width: 100%. Crop table"
 ---

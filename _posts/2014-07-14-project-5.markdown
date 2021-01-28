@@ -1,13 +1,16 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2017-04-14
 img: apple.png
 alt: Quick weight loss
-iframe: "https://wyrax.github.io/cv/portfolio/weight-loss/qwl_06cv.html"
+iframe: https://wyrax.github.io/cv/portfolio/weight-loss/qwl_06cv.html
 project-name: Quick weight loss
 project-date: April 2014
-client: Start Bootstrap
+project-date: Interactive Infographic
+
+client: Segodnya Multimedia / LifeRead.media
+client-url: http://liferead.media
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Crop header
 ---
