@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 4
-date: 2021-02-02
-img: game.png
-alt: image-alt
+date: 2020-02-02
+img: script.png
+alt: Adobe Creative Cloud scripting
 iframe: 
 project-name: Adobe Creative Cloud scripting
 project-date: 2021
@@ -12,5 +12,9 @@ project-type: Automation, Batch-processing, Scripting
 client: SportLife
 client-url: https://www.sportlife.ua/uk
 category: ExtendScript Development / Web Development
-description: Various automation scripts for Adobe Creative Cloud (Illustrator, InDesign).<a href="https://wyrax.github.io/data-merge-ranges/" target="_blank">Online Data Merge ranges generator for Adobe Indesign</a><br><br><a href="https://github.com/Wyrax/GenerateQRs" target="_blank">GenerateQRs for InDesign</a><br><a href="https://github.com/Wyrax/RenameArtboards" target="_blank">RenameArtboards for Illustrator</a><br><a href="https://github.com/Wyrax/ExportAllOpenDocumentsToPDF" target="_blank">ExportAllOpenDocumentsToPDF for Adobe InDesign</a><br>
+description: Various automation scripts for Adobe Creative Cloud (Illustrator, InDesign).<br>
+<i class="fa fa-rocket"></i> <a href="https://wyrax.github.io/data-merge-ranges/" target="_blank">Online Data Merge ranges generator for Indesign</a><br>
+<i class="fa fa-github"></i> <a href="https://github.com/Wyrax/GenerateQRs" target="_blank">GenerateQRs for InDesign</a><br>
+<i class="fa fa-github"></i> <a href="https://github.com/Wyrax/RenameArtboards" target="_blank">RenameArtboards for Illustrator</a><br>
+<i class="fa fa-github"></i> <a href="https://github.com/Wyrax/ExportAllOpenDocumentsToPDF" target="_blank">ExportAllOpenDocumentsToPDF for InDesign</a><br>
 ---

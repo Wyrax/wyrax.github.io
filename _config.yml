@@ -33,7 +33,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Anton "Wyrax" Som © 2021
+  copyright: Anton “Wyrax” Som © 2021
   
   location: Contact Details
   social: Find Me Online
@@ -43,11 +43,12 @@ footer:
 social:
   - title: github
     url: https://github.com/Wyrax
-
   - title: linkedin
-    url: http://bitbucket.org/jekyll
+    url: https://www.linkedin.com/mwlite/in/anton-som
+  - title: djinni
+    url: 
   - title: facebook
-    url: https://github.com/Wyrax
+    url: https://facebook.com/anton.som
 
 # Postal address (add as many lines as necessary)
 address:

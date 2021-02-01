@@ -3,7 +3,7 @@ layout: default
 modal-id: 6
 date: 2020-07-11
 img: map.png
-alt: Interactive map
+alt: Interactive map of Ukraine
 iframe: https://wyrax.github.io/cv/portfolio/ukraine-map/ukraine-map-09cv-iframe.html
 project-name: Interactive map of Ukraine
 project-date: March-July 2020
