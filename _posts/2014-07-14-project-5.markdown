@@ -4,7 +4,7 @@ modal-id: 5
 date: 2017-04-14
 img: apple.png
 alt: Quick weight loss
-iframe: https://wyrax.github.io/cv/portfolio/weight-loss/qwl_06cv.html
+iframe: https://wyrax.github.io/cv/portfolio/weight-loss/qwl_06cv-iframe.html
 project-name: Quick weight loss
 project-date: April 2014
 project-date: Interactive Infographic
@@ -12,5 +12,5 @@ project-date: Interactive Infographic
 client: Segodnya Multimedia / LifeRead.media
 client-url: http://liferead.media
 category: Web Development
-description: Crop header
+description: Choose your habits and see how healthy your lifestyle is. JavaScript & jQuery.
 ---

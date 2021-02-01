@@ -4,7 +4,7 @@ modal-id: 1
 date: 2019-09-27
 img: moon.png
 alt: Moon calendar
-iframe: https://wyrax.github.io/cv/portfolio/moon-phases/moon_phases10cv.html
+iframe: https://wyrax.github.io/cv/portfolio/moon-phases/moon_phases10cv-iframe.html
 project-name: Moon calendar
 project-date: 2017-2019
 project-type: Interactive Graphic
@@ -12,5 +12,5 @@ project-type: Interactive Graphic
 client: Segodnya Multimedia / LifeRead.media
 client-url: http://liferead.media
 category: Web Development
-description: Animated moon calendar. jQuery & JavaScript. // Crop header
+description: Animated Moon calendar, with random events. Silhouettes of ukrainian cities are at the background. JavaScript & jQuery.
 ---

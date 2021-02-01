@@ -11,5 +11,5 @@ project-type: Project Type
 
 client: Start Bootstrap
 category: Web Development
-description: Use this  soluta, eos quod consequuntur itaque. Nam.
+description: Use this soluta, eos quod consequuntur itaque. Nam.
 ---

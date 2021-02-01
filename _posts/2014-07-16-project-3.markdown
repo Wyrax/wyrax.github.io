@@ -4,7 +4,7 @@ modal-id: 3
 date: 2018-08-18
 img: baby.png
 alt: APGAR-score
-iframe: https://wyrax.github.io/cv/portfolio/apgar-score/apgar08cv.html
+iframe: https://wyrax.github.io/cv/portfolio/apgar-score/apgar08cv-iframe.html
 project-name: APGAR-score
 project-date: April 2014
 project-type: Interactive Infographic
@@ -12,5 +12,5 @@ project-type: Interactive Infographic
 client: Segodnya Multimedia / LifeRead.media
 client-url: http://liferead.media
 category: Web Development
-description: APGAR-score ... Crop header
+description: Interactive infographic about APGAR-score, a method to quickly summarize the health of newborn children against infant mortality. JavaScript & jQuery.
 ---

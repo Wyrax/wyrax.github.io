@@ -4,7 +4,7 @@ modal-id: 2
 date: 2019-07-17
 img: owl.png
 alt: Spot the difference
-iframe: https://wyrax.github.io/cv/portfolio/find-diff/finddiff_041-montenegro.html
+iframe: https://wyrax.github.io/cv/portfolio/find-diff/finddiff_041-montenegro-iframe.html
 project-name: Spot the difference
 project-date: 2018-2019
 project-type: Puzzle
@@ -12,5 +12,5 @@ project-type: Puzzle
 client: Segodnya Multimedia / LifeRead.media
 client-url: http://liferead.media
 category: Web Development
-description: 0) Spot the difference -> header 1) Check/fix Developer text margin-top for site 2) For post remove header and button
+description: “Spot 10 differences” interactive was migrated from iPad version to HTML5 (Animated with jQuery).
 ---

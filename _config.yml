@@ -52,7 +52,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Ukraine, Kyiv
-  - line: <i class="bi bi-envelope"></i><a href="mailto:wyraxlfj@ukr.net">Email Me</a>
+  - line: <i class="bi bi-envelope"></i><a href="mailto:wyraxlfj@ukr.net">wyraxlfj@ukr.net</a>
   - line: '+380 50 552 74 23'
 
 # Credits content

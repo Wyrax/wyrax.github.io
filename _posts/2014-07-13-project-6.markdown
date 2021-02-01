@@ -4,7 +4,7 @@ modal-id: 6
 date: 2020-07-11
 img: map.png
 alt: Interactive map
-iframe: https://wyrax.github.io/cv/portfolio/ukraine-map/ukraine-map-09cv.html
+iframe: https://wyrax.github.io/cv/portfolio/ukraine-map/ukraine-map-09cv-iframe.html
 project-name: Interactive map of Ukraine
 project-date: March-July 2020
 project-type: Interactive Infographic
@@ -12,5 +12,5 @@ project-type: Interactive Infographic
 client: UA-Times News Agency
 client-url: https://ua-times.com
 category: Web Development
-description: "Set id=map-wrapper width: 100%. Crop table"
+description: Spread of the COVID-19 desease in Ukraine. Timeline animation. Multilanguage data support. JavaScript, JSON, SVG.
 ---
