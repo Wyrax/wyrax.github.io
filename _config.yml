@@ -5,7 +5,7 @@ email: wyraxlfj@ukr.net
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Graphic Designer JavaScript Developer CV and portfolio page"
 keywords: "your keywords, separated by commas"
-skills: "Graphic Designer | JavaScript Developer"
+skills: "Graphic / Interactive Media Designer | JavaScript Developer"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -35,8 +35,8 @@ color:
 footer:
   copyright: Anton "Wyrax" Som © 2021
   
-  location: Location
-  social: Around the Web
+  location: Contact Details
+  social: Find Me Online
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

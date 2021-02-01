@@ -6,8 +6,8 @@ img: apple.png
 alt: Quick weight loss
 iframe: https://wyrax.github.io/cv/portfolio/weight-loss/qwl_06cv-iframe.html
 project-name: Quick weight loss
-project-date: April 2014
-project-date: Interactive Infographic
+project-date: April 2017
+project-type: Interactive Infographic
 
 client: Segodnya Multimedia / LifeRead.media
 client-url: http://liferead.media

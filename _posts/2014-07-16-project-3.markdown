@@ -6,7 +6,7 @@ img: baby.png
 alt: APGAR-score
 iframe: https://wyrax.github.io/cv/portfolio/apgar-score/apgar08cv-iframe.html
 project-name: APGAR-score
-project-date: April 2014
+project-date: August 2018
 project-type: Interactive Infographic
 
 client: Segodnya Multimedia / LifeRead.media
