@@ -2,11 +2,15 @@
 title: Anton Som Portfolio
 person: Anton Som
 email: wyraxlfj@ukr.net
-url: https://github.com/jeromelachaud/freelancer-theme
+url: https://wyrax.github.io
+# Назва сайту в Google над результатами пошуку — для всього wyrax.github.io, зокрема /mykola-som/
+# (structured data WebSite у _includes/head.html; Google може вибрати іншу, якщо ця йому не підійде)
+site_name: Портфоліо
+site_alternate_name: Anton Som Portfolio
 description: "JavaScript Developer | Graphic / Interactive Media Designer CV and portfolio page"
-keywords: "your keywords, separated by commas"
+keywords:
 skills: "JavaScript&nbsp;Developer | Graphic&nbsp;/&nbsp;Interactive&nbsp;Media&nbsp;Designer"
-meta_author: LastName FirstName
+meta_author: Anton Som
 
 # Google webmaster tools
 google_verify:
